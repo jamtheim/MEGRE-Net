@@ -1,0 +1,5 @@
+All datasets, annotations and the final model used in this study are publicly available (anonymized) for non-commercial use.
+The anonymized MEGRE dataset can be requested from 
+https://datasets.aida.medtech4health.se/10.23698/aida/megre
+Ethical approval for raw data publishing has been granted 2020.
+contact: christian.JamtheimGustafsson@skane.se
