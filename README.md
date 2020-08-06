@@ -1,5 +1,5 @@
 # MEGRE-Net
-Deep Neural network for automatic gold fiducial marker identification in multi echo MRI (MEGRE) images.\
+Deep Neural network for automatic gold fiducial marker identification in multi echo gradient echo MRI (MEGRE) images.\
 This repository contains scripts, config files and software used in the publication "Development and evaluation of a deep learning based artificial intelligence for automatic identification of gold fiducial markers in an MRI-only prostate radiotherapy workflow" by Jamtheim Gustafsson 2020 (under review). 
 Please connect the numbers in the list below to the number of corresponding file folder in the repository. 
 
